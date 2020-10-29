@@ -50,3 +50,21 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 })
 export class AppModule {}
 ```
+
+Creacion de nuevos modulos
+
+```
+- nest generate module <name>
+```
+Creacion de nuevos controllers
+
+```
+- nest generate controller <name>
+```
+
+Creacion de nuevos services 
+
+```
+- nest generate services <name>
+```
+
